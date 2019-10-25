@@ -5,7 +5,7 @@ Implementation of some Neural Networks algorithms like (Backpropagation, Backpro
 ![Alt text](Screenshots/nn2.PNG?raw=true "2")
 
 <H1>Requirements</H1>
-Telerik lib
-Accord
-AccordMath
-MathNetNumerics
+Telerik lib <br>
+Accord <br>
+AccordMath <br>
+MathNetNumerics <br>
