@@ -1,0 +1,77 @@
+C:\neural-network\BackPropagation_Implementation\bin\Debug\Accord.dll.config
+C:\neural-network\BackPropagation_Implementation\bin\Debug\BackPropagation_Implementation.exe.config
+C:\neural-network\BackPropagation_Implementation\bin\Debug\BackPropagation_Implementation.exe
+C:\neural-network\BackPropagation_Implementation\bin\Debug\BackPropagation_Implementation.pdb
+C:\neural-network\BackPropagation_Implementation\bin\Debug\Accord.dll
+C:\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.Core.dll
+C:\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.dll
+C:\neural-network\BackPropagation_Implementation\bin\Debug\MathNet.Numerics.dll
+C:\neural-network\BackPropagation_Implementation\bin\Debug\Accord.xml
+C:\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.xml
+C:\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.Core.xml
+C:\neural-network\BackPropagation_Implementation\bin\Debug\MathNet.Numerics.xml
+C:\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.RadForm1.resources
+C:\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.Properties.Resources.resources
+C:\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.csproj.GenerateResource.Cache
+C:\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.exe
+C:\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.pdb
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\bin\Debug\BackPropagation_Implementation.exe
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.Core.dll
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.dll
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\bin\Debug\Accord.dll.config
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\bin\Debug\BackPropagation_Implementation.exe.config
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\bin\Debug\Accord.dll
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\bin\Debug\MathNet.Numerics.dll
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\bin\Debug\Accord.xml
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.xml
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.Core.xml
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\bin\Debug\MathNet.Numerics.xml
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.NN_Forms.Intro.resources
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.NN_Forms.NN.resources
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.NN_Forms.TSP.resources
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.Properties.Resources.resources
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.csproj.GenerateResource.Cache
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.exe
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.pdb
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\bin\Debug\BackPropagation_Implementation.pdb
+C:\Users\Usama\Desktop\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.csprojResolveAssemblyReference.cache
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\bin\Debug\BackPropagation_Implementation.exe
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.Core.dll
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.dll
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\bin\Debug\Accord.dll.config
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\bin\Debug\BackPropagation_Implementation.exe.config
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\bin\Debug\Accord.dll
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\bin\Debug\MathNet.Numerics.dll
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\bin\Debug\Accord.xml
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.xml
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.Core.xml
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\bin\Debug\MathNet.Numerics.xml
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.NN_Forms.Intro.resources
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.NN_Forms.NN.resources
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.NN_Forms.TSP.resources
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.Properties.Resources.resources
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.csproj.GenerateResource.Cache
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.exe
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.pdb
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\bin\Debug\BackPropagation_Implementation.pdb
+C:\Users\yasser\Downloads\neural-network 30-12-2016\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.csprojResolveAssemblyReference.cache
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\bin\Debug\BackPropagation_Implementation.exe.config
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.exe
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.pdb
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\bin\Debug\Accord.dll.config
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\bin\Debug\BackPropagation_Implementation.exe
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\bin\Debug\BackPropagation_Implementation.pdb
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\bin\Debug\Accord.dll
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.Core.dll
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.dll
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\bin\Debug\MathNet.Numerics.dll
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\bin\Debug\Accord.xml
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.xml
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\bin\Debug\Accord.Math.Core.xml
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\bin\Debug\MathNet.Numerics.xml
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.csprojResolveAssemblyReference.cache
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.NN_Forms.Intro.resources
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.NN_Forms.NN.resources
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.NN_Forms.TSP.resources
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.Properties.Resources.resources
+H:\ITE Projects\4-fourth Year\Nueral Network\neural-network\neural-network\BackPropagation_Implementation\obj\x86\Debug\BackPropagation_Implementation.csproj.GenerateResource.Cache
